@@ -16,15 +16,14 @@ A metro ticket booking and approval system built on ServiceNow.
 
 ## Screenshots
 ### Booking Form
-![Booking Form](<img width="1919" height="878" alt="Screenshot 2026-04-25 001250" src="https://github.com/user-attachments/assets/e3d44b5f-948d-438b-9ab0-b1620092977d" />
-)
+![Booking Form](02-booking-form-portal.png.png)
 
 ### Request Approved
-![Approved](<img width="1919" height="978" alt="Screenshot 2026-04-25 001703" src="https://github.com/user-attachments/assets/5f85b8fc-b48e-48d5-80fd-4c936bd8bb6b" />
+![Approved](04-ritm-approved.png
 )
 
 ### Flow Designer
-![Flow](<img width="1919" height="965" alt="Screenshot 2026-04-25 001502" src="https://github.com/user-attachments/assets/95a129d2-03ad-4f7a-80c0-21d2bfc9d35d" />
+![Flow](05-flow-designer.png.png
 )
 
 ## How It Works
